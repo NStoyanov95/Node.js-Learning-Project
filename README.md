@@ -29,6 +29,7 @@ This project is a simple Node.js application created for learning purposes. It u
     <li><strong>app.js</strong>: Main application file combining all handlers and starting the server.</li>
 </ul>
 
+<h2>Usage</h2>
 <ol>
     <li>Install dependencies: <code>npm install</code></li>
     <li>Run the application: <code>npm start</code></li>
