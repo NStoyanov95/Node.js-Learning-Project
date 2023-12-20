@@ -1,6 +1,6 @@
 <h1>Node.js Learning Project</h1>
 
-This project is a simple Node.js application created for learning purposes. It utilizes basic routing to handle different HTTP requests and serves as an introduction to handling static files, parsing data, and working with JSON files.
+<p>This project is a simple Node.js application created for learning purposes. It utilizes basic routing to handle different HTTP requests and serves as an introduction to handling static files, parsing data, and working with JSON files.</p>
 
 
 <h2>Project Structure</h2>
